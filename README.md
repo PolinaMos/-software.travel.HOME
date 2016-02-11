@@ -1,2 +1,2 @@
-
-The app has three inputs,  two for entering numbers one which shows a result of summarize
+Link to my GitHub pages
+<a href="http://polinamos.github.io/#/">polinamos.github.io</a>
