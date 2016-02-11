@@ -1,0 +1,18 @@
+.wrapper { 
+  position: relative;
+						top: 100px;
+						bottom: 0;
+						left: 0;
+						right: 0;
+						margin: auto;
+						width: 715px;
+						text-align:center;
+						font-size: 25px;
+						font-weight:bold;
+						
+}
+.operation {vertical-align: -3px}
+a { 
+    text-decoration: none; 
+}
+   input {margin: 5px;}
